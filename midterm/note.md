@@ -27,6 +27,9 @@ for the detection I downloaded a random image of chicken and place it in the fol
 
 
 In this project I followed Yolov5 tutorial and also look alot of resources from youtube on how to make Yolov5 image recognition works. Yolov5 is not my creation but it is open to public use, I leave the github page below.
-https://www.youtube.com/watch?v=GRtgLlwxpc4&t=468s
-https://pytorch.org/hub/ultralytics_yolov5/
-https://github.com/ultralytics/yolov5
+</br>
+(https://www.youtube.com/watch?v=GRtgLlwxpc4&t=468s)
+</br>
+(https://pytorch.org/hub/ultralytics_yolov5/)
+</br>
+(https://github.com/ultralytics/yolov5)
